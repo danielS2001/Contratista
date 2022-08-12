@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contratista</string>
+    <string-array name="vocaciones">
+        <item>Contratista</item>
+        <item>Albañil</item>
+        <item>Electricista</item>
+        <item>Plomero</item>
+        <item>Carpintero</item>
+        <item>Arquitecto</item>
+        <item>Ingeniero civil</item>
+        <item>Otro</item>
+    </string-array>
+</resources>
